@@ -35,7 +35,8 @@ Welcome to Daghari Halima's profile! <img src="https://media.giphy.com/media/12o
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DaghariHalima's streak" src="https://github-readme-streak-stats.herokuapp.com?user=DaghariHalima&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-## 🛠️ My favorite tools
+
+### 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
@@ -66,7 +67,7 @@ Welcome to Daghari Halima's profile! <img src="https://media.giphy.com/media/12o
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="ChartJs" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Flutter" src=" https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
     <a href="#"><img alt="JWT/JSON" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
     <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
