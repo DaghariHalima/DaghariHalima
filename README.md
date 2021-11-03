@@ -8,7 +8,7 @@ Welcome to Daghari Halima's profile! <img src="https://media.giphy.com/media/12o
 - 👀 I’m interested in New Tech, Web Development, Mobile Development
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
-- 🥅 2021 Goals: Build my own company
+- 🥅 2022 Goals: Build my own company
 - 💞️ Fun Fact: Iron Man Fan😁
 
 ## 🙋‍♂️ Connect with me
