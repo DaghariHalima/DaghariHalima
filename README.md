@@ -33,7 +33,7 @@ Welcome to Daghari Halima's profile! <img src="https://media.giphy.com/media/12o
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular.svg?logo=#DD0031&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-Angular-yellow%20code?logo=#DD0031&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
