@@ -22,7 +22,7 @@ Welcome to Daghari Halima's profile! <img src="https://media.giphy.com/media/12o
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.facebook.com/profile.php?id=100009220067015" alt="Facebook">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-   <a href="" alt="Slack">
+   <a href="https://slack.com/intl/fr-tn/DaghariHalima" alt="Slack">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a> 
  
 </p>
