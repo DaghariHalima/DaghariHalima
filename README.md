@@ -3,12 +3,12 @@
 Welcome to Daghari Halima's profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Computer Science Engineer !!
 
 - 👀 I’m interested in New Tech, Web Development, Mobile Development
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently a Full-Stack Java Developer  
 - 📫 Trying to imporve myself everyday
-- 🥅 2022 Goals: Build my own company
+- 🥅 2024 Goals: Build my own company
 - 💞️ Fun Fact: Iron Man Fan😁
 
 ## 🙋‍♂️ Connect with me
